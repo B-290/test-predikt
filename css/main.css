@@ -1,0 +1,116 @@
+.research {
+
+  width: 300px;
+  height: 175px; 
+  padding: 0%;
+  margin: 0%;
+
+ background: url(../assets/group-logo-3.svg); /*blendmode to give the gradient a mix of hue*/
+ background-blend-mode: overlay;
+
+ background-size: 200px 400px;
+ background-size: 100% 20%;
+ background-size: contain;
+ background-size: cover;
+
+ z-index: 1;
+}
+
+button:hover {
+  
+  background-color: yellow;
+}
+
+a:hover {
+  background-color: yellow;
+}
+
+.about {
+
+  width: 300px;
+  height: 175px;
+  padding: 0%;
+  margin: 0%;
+
+background: url(../assets/group-logo-3.svg); /*blendmode to give the gradient a mix of hue*/
+background-blend-mode: overlay;
+
+background-size: 200px 400px;
+background-size: 100% 20%;
+background-size: contain;
+background-size: cover;
+
+z-index: 1;
+}
+
+h1{
+  font-family: sans-serif;
+
+}
+
+.button {
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+     flex-wrap: wrap;
+     flex-shrink: 1;
+     flex-basis: 6px;
+
+     } 
+
+.map li { 
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+     flex-wrap: wrap;
+     flex-shrink: 5;
+     flex-basis: 2.04px;
+
+}
+
+li a {
+
+  color: dimgrey;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  text-decoration: none;
+}
+
+h2 {
+
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color:mediumaquamarine;
+}
+
+h1 {
+
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:olive;
+}
+
+h6 {
+  
+  font-size:medium;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:olive;
+  text-decoration: none;
+}
+
+p {
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  color: dimgrey;
+}
+
+body{
+background-color: lavender;
+}
+
+.header{
+  background: url("../assets/header.svg");
+  background-size: 20% ;
+}

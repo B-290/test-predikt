@@ -1,0 +1,79 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1109.25 847.44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0097c0;
+      }
+
+      .cls-1, .cls-10, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #a2ccff;
+      }
+
+      .cls-3 {
+        fill: #00492d;
+      }
+
+      .cls-4 {
+        fill: #e3f0ff;
+      }
+
+      .cls-5 {
+        fill: #5cff77;
+      }
+
+      .cls-6 {
+        fill: #b0d6ff;
+      }
+
+      .cls-7 {
+        fill: #004b02;
+      }
+
+      .cls-8 {
+        fill: #c0e2ff;
+      }
+
+      .cls-14, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-10 {
+        fill: #cbdbff;
+      }
+
+      .cls-11 {
+        font-size: 76.36px;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-12, .cls-13 {
+        font-family: BrushScriptMT, Brush Script MT;
+      }
+
+      .cls-12 {
+        letter-spacing: -0.01em;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M1032.55,243.81,938.82,369l-31.54-93.67-50,40.55L807,277.39l-75,110.45S610.82,121.59,607.69,121.59s-20.2,77.25-20.2,77.25l-28.33-58.76L542,175l-20.48-53.26L456.06,278.16l-18.71-56L422.94,179l-64.08,75.5-40.85-55-34.66,54.63L188.41,403.74l-72.65,446.8h0" transform="translate(-115.27 -16.75)"/>
+  <polygon class="cls-2" points="414.49 83.45 451.91 1.12 496.82 83.45 455.66 104.84 414.49 83.45"/>
+  <polygon class="cls-3" points="992.98 417.68 907.44 381.79 830.45 417.68 710.68 381.79 622.47 443.81 516.07 343.3 603.75 584.96 1108.47 811.65 992.98 417.68"/>
+  <path class="cls-4" d="M645.74,194.91l84.75-20,84.75,82.47c.87-16.54-84.75-178.93-84.75-178.93Z" transform="translate(-115.27 -16.75)"/>
+  <polyline class="cls-5" points="169.62 233.71 508.94 336.88 594.49 584.96 96.9 369.67"/>
+  <path d="M580,261a1.5,1.5,0,0,0,0-3,1.5,1.5,0,0,0,0,3Z" transform="translate(-115.27 -16.75)"/>
+  <path class="cls-6" d="M358.86,254.48,422.94,179l35.77,92.84L468.9,279l52.62-157.17L542,175l17.16-35,28.33,58.76,20.2-77.25L732.05,387.84l10.52-15.5s58.52-70.58,65.65-74.86l47,38.5,47.05-47.05,38.5,101.23,12.83-17.82,73.78-111.93,63.09,178-74.14-36.81-77,36.81L815.35,403,728,461.44,633,361.64,283.35,254.06" transform="translate(-115.27 -16.75)"/>
+  <path class="cls-7" d="M978,97.05" transform="translate(-115.27 -16.75)"/>
+  <polyline class="cls-8" points="238.05 119.69 205.26 167.37 245.18 222.79 299.36 158.64 276.07 112 261.04 132.97"/>
+  <polygon class="cls-9" points="245.18 112 263.71 80.3 276.55 104.84 260.86 120.17 245.18 112"/>
+  <path class="cls-9" d="M133.75,97.05" transform="translate(-115.27 -16.75)"/>
+  <polygon class="cls-10" points="714.25 233.71 747.04 167.4 785.54 144.41 822.61 158.66 862.75 130.15 878.21 167.4 908.15 192.88 908.15 215.69 799.79 248.49 714.25 233.71"/>
+  <path class="cls-1" d="M686.94,822.7" transform="translate(-115.27 -16.75)"/>
+  <text x="-115.27" y="-16.75"/>  <text class="cls-11" transform="translate(168.09 805.95) scale(1.48 1)"> <tspan class="cls-12" x="16.19" y="0">K</tspan><tspan class="cls-13" x="65.26" y="0">ananaskis Country</tspan></text>
+  <polyline class="cls-14" points="587.19 100.23 610.17 120.17 637.61 104.84 615.23 61.71"/>
+  <polyline class="cls-9" points="451.91 1.12 468.7 31.89 455.66 46.03 437.92 31.89"/>
+</svg>
