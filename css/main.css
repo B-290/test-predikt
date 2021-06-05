@@ -74,10 +74,11 @@ h1{
 
 li a {
 
-  color: dimgrey;
+  color:mediumaquamarine;
   font-family: 'Times New Roman', Times, serif;
-  font-size: large;
+  font-size:xx-large;
   text-decoration: none;
+
 }
 
 h2 {
@@ -112,5 +113,15 @@ background-color: lavender;
 
 .header{
   background: url("../assets/header.svg");
-  background-size: 20% ;
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+     flex-wrap: wrap;
+     flex-shrink: 1;
+     flex-basis: 300px;
+     margin-right: 1114px;
+
+     
 }
